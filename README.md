@@ -26,7 +26,7 @@ This represents an overall underreporting of **15%** at the cumulated level.
 There is also likely an under-reporting at the daily level:
 - daily reported peak of deaths due to covid: 950
 - daily peak of excess deaths over 99% threshold: 1250
-- daily peak of excess deaths over average: 1357
+- daily peak of excess deaths over average: 1360
 
 This represents a peak underreporting of **24 to 30%** at the daily peak level.
 
