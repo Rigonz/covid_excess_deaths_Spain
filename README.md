@@ -1,4 +1,4 @@
-# COVID Deaths in Spain from the MoM perspective
+# COVID Deaths in Spain from the MoMo perspective
 
 Doubts have been raised in Spain regarding whether, somehow, the covid-deaths are largely unreported.
 This projects aims at assisting in clarifying the issue by comparing the following datasets:
