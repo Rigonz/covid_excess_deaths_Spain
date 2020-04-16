@@ -31,3 +31,9 @@ There is also likely an under-reporting at the daily level:
 This represents a peak underreporting of **24 to 30%** at the daily peak level.
 
 ![daiy](https://github.com/Rigonz/covid_excess_deaths_Spain/blob/master/data/20200414_covid_daily.png)
+
+* * *
+**Warning**
+The data from MoMo are horribly inacurate up to one week of their publication date. Attached one example:
+
+![MoMo_inacuracy](https://github.com/Rigonz/covid_excess_deaths_Spain/blob/master/data/MoMo%20inaccuracy.png)
